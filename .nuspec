@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>LGSE.API.Core</id>
+        <version>1.0.0</version>
+        <authors>Pierre Berube</authors>
+        <owners>LGSE Ltd.</owners>
+        <projectUrl>https://github.com/lgse/dotnet-api-core</projectUrl>
+        <license type="expression">MIT</license>
+        <icon>icon.png</icon>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Dotnet Components to build RESTful APIs</description>
+        <copyright>Copyright ©2022 LGSE Ltd.</copyright>
+        <tags>dotnet api http rest</tags>
+
+        <dependencies>
+        </dependencies>
+    </metadata>
+</package>
